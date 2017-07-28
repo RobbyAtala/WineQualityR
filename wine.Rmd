@@ -11,7 +11,7 @@ knitr::opts_chunk$set(fig.width=12, fig.height=8, fig.path='Figs/',
 
 
 ```{r}
-setwd('/Users/rab/Downloads/Nanofiles')
+setwd('/Users/rab/Documents/Nanofiles/WineQualityR')
 library(ggplot2)
 library(gridExtra)
 library(dplyr)
