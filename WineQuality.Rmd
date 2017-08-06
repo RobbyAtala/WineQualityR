@@ -2,7 +2,7 @@
 title: "RedWine"
 output:
   
-  github_document: default
+  html_document: default
 ---
 
 ```{r global_options, include=FALSE}
