@@ -1,6 +1,8 @@
 ---
 title: "RedWine"
-output: html_document
+output:
+  html_document: default
+  github_document: default
 ---
 
 ```{r global_options, include=FALSE}
